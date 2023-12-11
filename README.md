@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jl1172" alt="jl1172" /></a> </p>
 
+- ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
+
 - 🔭 I’m currently working on [Book Store App](https://github.com/JL1172/bookstore--in-progress)
 
 - 🌱 I’m currently learning **Applied Computer Science**
