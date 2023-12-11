@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob!</h1>
 <h3 align="center">A passionate Full Stack developer from America</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jl1172" alt="jl1172" /></a> </p>
+
 
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
 
