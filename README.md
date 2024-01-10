@@ -5,21 +5,19 @@
 
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
 
-- 🔭 I’m currently working on [Book Store App](https://github.com/JL1172/bookstore--in-progress)
+- 🔭 I’m currently working on an extensive [CRM]
 
 - 🌱 I’m currently learning **Applied Computer Science**
 
-- 🤝 I’m looking for help with **Email/Account Manager**
+- 🤝 I’m looking for help with **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-no2.vercel.app/](https://portfolio-no2.vercel.app/)
+- 👨‍💻 Almost All of my projects are available at [https://portfolio-no2.vercel.app/](https://portfolio-no2.vercel.app/)
 
-- 💬 Ask me about **React, DSA, Express, JavaScript**
+- 💬 Ask me about **React, DSA, Express, JavaScript, Nestjs, Backend, Database Architecture**
 
 - 📫 How to reach me **jacoblang127@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/embed?resid=968B4C77C495090B%211084852&authkey=!AJ1kdj_X8ynjd5U&em=2](https://onedrive.live.com/embed?resid=968B4C77C495090B%211084852&authkey=!AJ1kdj_X8ynjd5U&em=2)
-
-- ⚡ Fun fact **I am in the process of initializing two big projects**
+- ⚡ Fun fact **I am working in at Honeycomb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
