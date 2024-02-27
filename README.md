@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on an extensive [CRM]
 
-- 🌱 I’m currently learning **Applied Computer Science**
+- 🌱 I’m currently learning **Sprint Boot**
 
-- 🤝 I’m looking for help with **Spring Boot**
+- 🤝 I’m looking for help with **Project Ideas**
 
 - 👨‍💻 Almost All of my projects are available at [https://portfolio-no2.vercel.app/](https://portfolio-no2.vercel.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jacoblang127@gmail.com**
 
-- ⚡ Fun fact **I am working in at Honeycomb**
+- ⚡ Fun fact **I am working at Honeycomb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
