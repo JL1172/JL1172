@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Sprint Boot**
 
-- 🤝 I’m looking for help with **Project Ideas**
+- 🤝 I’m looking for help with **My Java Compiler**
 
-- 👨‍💻 Almost All of my projects are available at [https://portfolio-no2.vercel.app/](https://portfolio-no2.vercel.app/)
+- 👨‍💻 Almost All of my projects are available at [this link](https://jl1172-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, DSA, Express, JavaScript, Nestjs, Backend, Database Architecture**
 
