@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob!</h1>
 <h3 align="center">A passionate Full Stack developer from America</h3>
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > I have 100's of untracked commits because I ended up not configuring my machine's user.email git configuration and therefore, I have so many commits that have not been tracked. The number is not reflective of how much I've commited this year.
 
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
