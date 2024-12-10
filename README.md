@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob!</h1>
 <h3 align="center">A passionate Full Stack developer from America</h3>
 
-> [!IMPORTANT]
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
 
 - 🌱 I’m currently learning **Sprint Boot**
