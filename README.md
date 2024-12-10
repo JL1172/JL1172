@@ -2,15 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from America</h3>
 
 > [!IMPORTANT]
-> I have 100's of untracked commits because I ended up not configuring my machine's user.email git configuration and therefore, I have so many commits that have not been tracked. The number is not reflective of how much I've commited this year.
-
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
-
-- 🔭 I’m currently working on an extensive [CRM]
 
 - 🌱 I’m currently learning **Sprint Boot**
 
-- 🤝 I’m looking for help with **My Java Compiler**
+- 🤝 I’m looking for help with **My Java Compiler** and my project that aims to bring static typing to javascript
 
 - 👨‍💻 Almost All of my projects are available at [this link](https://jl1172-portfolio.vercel.app/)
 
@@ -18,7 +14,7 @@
 
 - 📫 How to reach me **jacoblang127@gmail.com**
 
-- ⚡ Fun fact **I am working at Honeycomb**
+- ⚡ Fun fact **I am working at Popshap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
