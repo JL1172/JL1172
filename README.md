@@ -3,8 +3,6 @@
 
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
 
-- 🌱 I’m currently learning **Sprint Boot**
-
 - 🤝 I’m looking for help with **My Java Compiler** and my project that aims to bring static typing to javascript
 
 - 👨‍💻 Almost All of my projects are available at [this link](https://jl1172-portfolio.vercel.app/)
