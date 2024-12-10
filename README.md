@@ -3,13 +3,11 @@
 
 - ⚡ Interested in my projects? I have organized everything into starred lists on my profile, feel free to check them all out.
 
-- 🤝 I’m looking for help with **My Java Compiler** and my project that aims to bring static typing to javascript
+- 🤝 I’m looking for help with **My Java Compiler** and my project, **Staticjs** that aims to bring static typing to **Javascript**
 
 - 👨‍💻 Almost All of my projects are available at [this link](https://jl1172-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, DSA, Express, JavaScript, Nestjs, Backend, Database Architecture**
-
-- 📫 How to reach me **jacoblang127@gmail.com**
 
 - ⚡ Fun fact **I am working at Popshap**
 
